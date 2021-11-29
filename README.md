@@ -1,1 +1,1 @@
- https://santhosh1567.github.io/my-resume/
+  https://santhosh1567.github.io/resume_assignment/
